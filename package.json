@@ -80,7 +80,7 @@
     "browserify": "16.5.0",
     "bundlesize": "0.18.0",
     "codecov": "3.8.0",
-    "danger": "7.1.4",
+    "danger": "10.6.4",
     "graphql": "15.4.0",
     "husky": "4.3.0",
     "jest": "24.9.0",
